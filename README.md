@@ -2,7 +2,7 @@
 
 ## Description
 
-This homelab simulates a Windows domain environment using Hyper-V. It serves as a personal learning environment for exploring Active Directory and enterprise Windows infrastructure concepts.
+This homelab simulates a Windows domain environment using Hyper-V. It serves as a personal learning environment for exploring Active Directory and enterprise Windows infrastructure concepts using a Windows Server domain controller and a Windows 10 domain-joined client.
 
 ---
 
@@ -13,12 +13,9 @@ This homelab simulates a Windows domain environment using Hyper-V. It serves as 
 ---
 
 ## Environment Used
-
-| Component | Purpose |
-|------------|------------|
-| Windows Server VM | Domain Controller |
-| Windows 10 VM | Domain-Joined Client |
-| Hyper-V | Virtualization Platform |
+- Windows Server 2022
+- Windows 10 
+- Hyper-V 
 
 ---
 
