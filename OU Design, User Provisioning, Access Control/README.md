@@ -1,4 +1,4 @@
-# OU Design, User Provisioning, and Access Control
+# OU Design, User Provisioning, & Access Control
 
 ## Description
 
