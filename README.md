@@ -15,7 +15,8 @@ This homelab simulates a Windows domain environment using Hyper-V. It serves as 
 ---
 
 ## Projects
-1. [Group Policy Management](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
+1. [Group Policy Security Configuration](https://github.com/df18/ActiveDirectoryLab/tree/main/Group%20Policy%20Management%20)
+2. [OU Design, User Provisioning & Access Control](https://github.com/df18/ActiveDirectoryLab/tree/main/OU%20Design%2C%20User%20Provisioning%2C%20%26%20Access%20Control)
 ---
 
 
