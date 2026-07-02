@@ -6,13 +6,8 @@ This homelab simulates a Windows domain environment using Hyper-V. It serves as 
 
 ---
 
-## Utilities Used
+## Tools & Technology Used
 
-- Hyper-V
-
----
-
-## Environment Used
 - Windows Server 2022
 - Windows 10 
 - Hyper-V 
