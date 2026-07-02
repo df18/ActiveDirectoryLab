@@ -1,4 +1,4 @@
-# Group Policy Management
+# Group Policy Security Configuration
 
 ## Description
 Implemented centralized workstation management using Active Directory Group Policy Objects (GPOs).
